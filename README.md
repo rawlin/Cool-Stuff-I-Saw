@@ -1,2 +1,2 @@
 # MVVM
-Files required for MVVM
+Files required for good Architecture ,mainly MVVM
